@@ -11,6 +11,9 @@ package com.mycompany.practica_java;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hola Mundo en Java!");
+        String name = "Edson";
+        
+        System.out.println("Hello World in Java!");
+        System.out.println("Welcome!!! " + name);
     }
 }
